@@ -1,0 +1,10 @@
+Feb  1 13:10:02 ubuntu tsharkdns: 192.168.254.128,192.168.254.2;54870;aftenposten-no.c.richmetrics.com
+Feb  1 13:10:02 ubuntu tsharkdns: 192.168.254.128,8.8.8.8;54870;aftenposten-no.c.richmetrics.com
+Feb  1 13:10:02 ubuntu tsharkdns: 192.168.254.128,192.168.254.2;24363;aftenposten-no.c.richmetrics.com
+Feb  1 13:10:02 ubuntu tsharkdns: 192.168.254.2,192.168.254.128;54870;aftenposten-no.c.richmetrics.com
+Feb  1 13:10:02 ubuntu tsharkdns: 192.168.254.2,192.168.254.128;24363;aftenposten-no.c.richmetrics.com
+Feb  1 13:10:02 ubuntu tsharkdns: 8.8.8.8,192.168.254.128;54870;aftenposten-no.c.richmetrics.com
+Feb  1 13:10:02 ubuntu tsharkdns: 192.168.254.128,192.168.254.2;42302;vg.no
+Feb  1 13:10:02 ubuntu tsharkdns: 192.168.254.2,192.168.254.128;42302;vg.no
+Feb  1 13:10:02 ubuntu tsharkdns: 192.168.254.128,192.168.254.2;55073;16.54.88.195.in-addr.arpa
+Feb  1 13:10:02 ubuntu tsharkdns: 192.168.254.2,192.168.254.128;55073;16.54.88.195.in-addr.arpa
