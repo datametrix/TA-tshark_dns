@@ -10,3 +10,6 @@ Captures data in the following format created by:
 192.168.254.128,192.168.254.2;4650;ap.no;
 192.168.254.2,192.168.254.128;4650;ap.no;152.90.247.44
 </pre>
+
+
+More to come
